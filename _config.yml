@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://pkern001.github.io
+title: Research Spectacle
+email: pkern001@gmail.com
+author: pkern001
+description: A new site, trialling interactive displays of research findings
+paginate: 3
+google_analytics: 
